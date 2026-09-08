@@ -73,3 +73,5 @@ powershell -NoProfile -ExecutionPolicy Bypass -File build-exe.ps1
 - Скрипты требуют **прав администратора**.
 - Вносить правки в hosts следует осознанно; резервная копия снимается в `backup\hosts.backup`.
 - Проект развивается: следи за обновлениями механизма Duckgram fix.
+----------------------------------------
+https://github.com/Aliev123kirill/Duckgram
